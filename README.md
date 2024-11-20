@@ -210,9 +210,9 @@ To run the notebook:
 
 ## **8. Further Reading and Resources**
 
-- Keras Documentation
-- Scikit-learn Documentation
-- Deep Learning by Ian Goodfellow
+1. [Keras Documentation](https://keras.io/)
+2. [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)
+3. [Deep Learning by Ian Goodfellow](https://www.deeplearningbook.org/)
 
 
 
