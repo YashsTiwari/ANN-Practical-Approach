@@ -5,19 +5,19 @@ Welcome to this comprehensive guide designed to help beginners understand Artifi
 ---
 
 ## **Table of Contents**
-1. [Introduction to Neural Networks](#introduction-to-neural-networks)
-2. [Core Concepts of ANN](#Core-Concepts-of-ANN)
-   - Layers in ANN
-   - Activation Functions
-   - Forward Propagation
-   - Backpropagation
-3. [Dataset Preprocessing](#dataset-preprocessing)
-4. [Building the ANN](#building-the-ann)
-5. [Training the ANN](#training-the-ann)
-6. [Evaluating the Model](#evaluating-the-model)
-7. [Practical Implementation](#practical-implementation)
-8. [Visual Representation of Concepts](#visual-representation-of-concepts)
-9. [Further Reading and Resources](#further-reading-and-resources)
+1. [Introduction to Neural Networks](#1-introduction-to-neural-networks)
+2. [Core Concepts of ANN](#2-core-concepts-of-ann)
+   - [Layers in ANN](#layers-in-ann)
+   - [Activation Functions](#activation-functions)
+   - [Forward Propagation](#forward-propagation)
+   - [Backpropagation](#backpropagation)
+3. [Dataset Preprocessing](#3-dataset-preprocessing)
+4. [Building the ANN](#4-building-the-ann)
+5. [Training the ANN](#5-training-the-ann)
+6. [Evaluating the Model](#6-evaluating-the-model)
+7. [Practical Implementation](#7-practical-implementation)
+8. [Further Reading and Resources](#8-further-reading-and-resources)
+
 
 ---
 
@@ -182,7 +182,7 @@ from sklearn.metrics import confusion_matrix
 cm = confusion_matrix(y_test, y_pred)
 ```
 
-Visual:
+![Confusion Matrix Illustration](https://github.com/YashsTiwari/Building-Basic-ANN/blob/e9877e97f3be1416bdff29649253351b43a50686/images/confusion_matrix.png)
 
 #### **Accuracy**
 
