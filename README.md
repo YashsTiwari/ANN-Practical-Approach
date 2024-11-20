@@ -6,7 +6,7 @@ Welcome to this comprehensive guide designed to help beginners understand Artifi
 
 ## **Table of Contents**
 1. [Introduction to Neural Networks](#introduction-to-neural-networks)
-2. [Core Concepts of ANN](#core-concepts-of-ann)
+2. [Core Concepts of ANN](#Core-Concepts-of-ANN)
    - Layers in ANN
    - Activation Functions
    - Forward Propagation
